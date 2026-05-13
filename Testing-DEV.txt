@@ -1,1 +1,2 @@
 This file is created in the Development branch as a second commit
+this line is add to analyse the merge conflict and this change is done in feature branch
